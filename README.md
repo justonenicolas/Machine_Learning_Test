@@ -12,4 +12,8 @@ Este proyecto está dedicado a
 * Scipy
 
 ## 📊 Conclusiones generales
-* 
+* Con base en el análisis, se recomienda evaluar el aumento de convenios y promociones, puesto que se evidencia una mayor tendencia a permanecer si el usuario cuenta con alguno de estos beneficios
+* La edad y tiempo de actividad del usuario se consideran 2 de las caracteristicas más importantes para los modelos de predicción, por lo que se considera importante el poder desarrollar campañas de marketing enfocadas en los diferentes rangos que componen estas categorías, de manera que se pueda maximizar el interés de los usuarios con base en sus caracteristicas particulares
+* Relacionado con lo anterior, los resultados del agrupamiento (clustering) reflejaron que aunque la edad puede ser un factor importante, el más relevante de todos continúa siendo el tiempo de actividad (lifetime), el cual se puede comenzar a analizar en etapas tempranas a partir del periodo de contrato solicitado por el usuario (contract_period)
+* En general se considera importante desarrollar estrategias que incentiven la participación en clases grupales, bien sea a través de llamar la atención de la audiencia o de diseñar estos espacios con base en las preferencias de los distintos segmentos que asisten al gimnasio
+* Dado que el volumen de gastos adicionales dentro del gimnasio está bastante asociado con el nivel de fidelidad de los usuarios, se recomienda evaluar estrategias que comiencen a captar la atención de aquellos usuarios propensos a abandonar, con el objetivo de generar en ellos una sensación de valor agregado que pueda contribuir a su posible fidelización
