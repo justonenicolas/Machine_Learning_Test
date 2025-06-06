@@ -1,6 +1,9 @@
 # 🎯 Modelo Predictivo para medir la deserción de usuarios en un gimnasio
 Este proyecto está dedicado a entrenar y comparar una serie de modelos de aprendizaje supervisado cuyo principal objetivo es determinar la tasa de cancelación de los usuarios de un gimnasio y de esta manera establecer las características más importantes sobre las cuales pueda tomar decisiones el equipo de marketing para aumentar la retención mediante sus campañas. Adicionalmente, se desarrolló un segundo modelo de aprendizaje no supervisado utilizado para obtener una serie de grupos clasificados con los cuales se pudieran segmentar de manera más efectiva las campañas
 
+![Regressor](https://github.com/justonenicolas/Machine_Learning_Test/blob/main/LogisticRegressor.png)
+![Characteristics](https://github.com/justonenicolas/Machine_Learning_Test/blob/main/ML%20Characteristics.png)
+
 ## 💡 Habilidades destacadas
 * Análisis preparatorio de datos
 * Análisis estadístico de datos
