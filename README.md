@@ -1,15 +1,16 @@
 # 🎯 Modelo Predictivo para medir la deserción de usuarios en un gimnasio
-Este proyecto está dedicado a
+Este proyecto está dedicado a entrenar y comparar una serie de modelos de aprendizaje supervisado cuyo principal objetivo es determinar la tasa de cancelación de los usuarios de un gimnasio y de esta manera establecer las características más importantes sobre las cuales pueda tomar decisiones el equipo de marketing para aumentar la retención mediante sus campañas. Adicionalmente, se desarrolló un segundo modelo de aprendizaje no supervisado utilizado para obtener una serie de grupos clasificados con los cuales se pudieran segmentar de manera más efectiva las campañas
 
 ## 💡 Habilidades destacadas
 * Análisis preparatorio de datos
 * Análisis estadístico de datos
-* Modelos de aprensizaje supervisado
+* Modelos de aprendizaje supervisado
 
 ## 🔧 Herramientas y librerías utilizadas
 * Pandas
 * ScikitLearn
 * Scipy
+* Seaborn
 
 ## 📊 Conclusiones generales
 * Con base en el análisis, se recomienda evaluar el aumento de convenios y promociones, puesto que se evidencia una mayor tendencia a permanecer si el usuario cuenta con alguno de estos beneficios
